@@ -1,0 +1,36 @@
+Having version control is like having undo button for your project. 
+
+GIT + github
+
+Diff builtin tool to find diferences in a file
+ diff –u file1 file2 
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It can help me compare different files without having to do manually. Easy to do manually when code is 1-2 pages long, do it with 24 pages long or more. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Because you can see how you program when you take your first steps, and see how you had been evolving. Making possible to track where and how you upgrade.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros of do whenever you want gives you liberty to make it as you want It to be. Cons you are error prone because you are human.
+G. Docs pros are that its done automatically but it can not reflect all changes, only a small amount.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+How can you use the commands git log and git diff to view the history of files?
+
+first clone a repository then get in this repository and with git log see the changes. Whatever the one that interests you pick its id and the afterone id and put git diff first second to see the changes.
+
+Git is orientated to make savings to files which are highly related whereas the other one's files don't have to be related in any case.
+
+How might using version control make you more confident to make changes that could break something?
+
+Makes me more confident because i can revert to the commit that hasn't the error and copy the code in the actual file. I can take more risks, exploring differences without being affraid. I can make big changes when its working, exploring large spaces of things to try.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To set up a system that clones automatically my code for me.  
+
